@@ -89,14 +89,14 @@ const Hero: FC<THeroProps> = ({
           ))}
         </div>
         <p className="text-center text-sm font-light leading-[normal] text-[#1B1B16]">
-          Fully open source!{" "}
+          Learn with!{" "}
           <span className="text-sm font-medium underline">
             <a
               href="https://github.com/Nutlope/llamatutor"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Star it on github.
+              EASE.
             </a>
           </span>
         </p>
